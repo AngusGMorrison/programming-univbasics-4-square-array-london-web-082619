@@ -1,3 +1,5 @@
 def square_array(array)
-  array.map{ |x| x**2 }
+  x = 0 
+  while x < array.length 
+    array[x]
 end
